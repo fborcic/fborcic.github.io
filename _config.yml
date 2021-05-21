@@ -34,15 +34,15 @@ twitter_handle: 'None'
 
 # social icons and sharing options
 social:
- - icon:	facebook
-   url:	https://facebook.com/fborcic
-   desc: Connect with me facebook
-   share_url: https://www.facebook.com/sharer.php
-   share_title: ?t=
-   share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://facebook.com/???
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/fborcic
+    url:	https://github.com/dirkfabisch
     desc:	Fork me on github
     share_url:
     share_title:
